@@ -39,6 +39,7 @@ A curated list of **product launch platforms, communities, and directories** whe
 - [AISOTools](https://aisotools.com) – AI tools directory with a free listing plus AI-search visibility monitoring, so makers can see whether ChatGPT and Perplexity actually recommend their tool.
 - [The Agents Index](https://theagentsindex.com) – Researched, quality-gated directory of AI agents and agentic tools, with pricing, verdicts, and comparisons for each listing.
 - [CitedIndex](https://citedindex.com) – Researched, quality-gated directory of AI-visibility & GEO tools: the tools that measure and improve how ChatGPT, Perplexity, Gemini and AI Overviews see and cite your brand.
+- [AgentsIndex.ai](https://agentsindex.ai) – Directory of AI agents and AI-native tools.
 - [Best Directories](https://bestdirectories.org/) – Curated list of startup and product directories.
 - [Startup Fame](https://startupfa.me) – Product listings and startup discovery.
 - [Findly Tools](https://findly.tools) – Tool discovery and backlink listings.
